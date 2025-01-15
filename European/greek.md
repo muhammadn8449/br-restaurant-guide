@@ -1,2 +1,4 @@
-Omonia Cafe
-something Greek
+<ul>
+<li>Omonia Cafe</li>
+<li>something Greek</li>
+</ul>
